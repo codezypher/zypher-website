@@ -151,7 +151,7 @@ return (
           <div className="d-flex flex-column ms-3">
             <span>Call to Our Experts</span>
             <a href="tel:+ 0123 456 7890">
-              <span className="text-dark">Free: +1 (000) 000 0000</span>
+              <span className="text-dark"> +1 (902) 240 6651</span>
             </a>
           </div>
         </div>

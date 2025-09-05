@@ -670,7 +670,9 @@ const PrevArrow = ({ onClick }) => (
   </div> */}
   {/* Blog End */}
   {/* Team Start */}
-<div className="container-fluid team py-5">
+
+  
+{/* <div className="container-fluid team py-5">
   <div className="container pb-5">
     <div
       className="text-center mx-auto pb-5 wow fadeInUp"
@@ -687,7 +689,6 @@ const PrevArrow = ({ onClick }) => (
     </div>
     <div className="row g-4 d-flex justify-content-center">
       
-      {/* Team Member 1 */}
       <div
         className="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
         data-wow-delay="0.2s"
@@ -715,7 +716,6 @@ const PrevArrow = ({ onClick }) => (
         </div>
       </div>
 
-      {/* Team Member 2 */}
       <div
         className="col-md-6 col-lg-6 col-xl-3 wow fadeInUp"
         data-wow-delay="0.4s"
@@ -749,11 +749,11 @@ const PrevArrow = ({ onClick }) => (
 
     </div>
   </div>
-</div>
+</div> */}
 
   {/* Team End */}
   {/* Testimonial Start */}
-  <div className="container-fluid testimonial pb-5">
+  {/* <div className="container-fluid testimonial pb-5">
     <div className="container pb-5">
       <div
         className="text-center mx-auto pb-5 wow fadeInUp"
@@ -785,7 +785,7 @@ const PrevArrow = ({ onClick }) => (
     ]}
   >
     {testimonials.map((t, idx) => (
-      <div key={idx} className="px-2"> {/* spacing between slides */}
+      <div key={idx} className="px-2"> 
         <div className="testimonial-item bg-light rounded">
           <div className="row g-0">
             <div className="col-4 col-lg-4 col-xl-3">
@@ -813,7 +813,7 @@ const PrevArrow = ({ onClick }) => (
   </Slider>
 </div>
     </div>
-  </div>
+  </div> */}
   {/* Testimonial End */}
 
   {/* Back to Top */}

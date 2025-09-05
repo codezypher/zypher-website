@@ -126,7 +126,7 @@ function Footer() {
                     </div>
                     <div>
                       <h4 className="text-white">Telephone</h4>
-                      <p className="mb-0">+1 (000) 000-0000</p>
+                      <p className="mb-0">+1 (902) 240-6651</p>
                     </div>
                   </div>
                 </div>
@@ -175,8 +175,8 @@ function Footer() {
             </div>
             <div className="d-flex flex-column ms-3 flex-shrink-0">
               <span>Call our team</span>
-              <a href="tel:+10000000000">
-                <span className="text-white">Free: +1 (000) 000-0000</span>
+              <a href="tel:+1 9022406651">
+                <span className="text-white"> +1 (902) 240-6651</span>
               </a>
             </div>
           </div>
