@@ -115,7 +115,7 @@ function Footer() {
                     </div>
                     <div>
                       <h4 className="text-white">Email</h4>
-                      <p className="mb-0">techcodezypher@gmail.com</p>
+                      <p className="mb-0">tech@codezypher.com</p>
                     </div>
                   </div>
                 </div>
