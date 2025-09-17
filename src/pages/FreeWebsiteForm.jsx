@@ -110,7 +110,7 @@ export default function FreeWebsiteForm() {
       {/* Promo banner */}
       <div className="alert alert-warning shadow-sm">
         <strong>Special Offer:</strong> Free static website for new businesses — valid now
-        until <b>Sept 18, 12:00 PM (Halifax)</b>.
+        until <b>Sept 18, 6:00 PM (Nova Scotia)</b>.
       </div>
 
       <div className="row justify-content-center">
@@ -224,7 +224,7 @@ export default function FreeWebsiteForm() {
                     {sending ? "Submitting..." : "Claim Free Website"}
                   </button>
                   <span className="text-muted small">
-                    Offer ends <strong>Sept 18, 12:00 PM (Halifax)</strong>.
+                    Offer ends <strong>Sept 18, 06:00 PM (Nova Scotia)</strong>.
                   </span>
                 </div>
 
